@@ -4,7 +4,7 @@
 This Power BI dashboard provides a comprehensive analysis of the Indian Premier League (IPL) data from year 2008 to 2022, offering insights into various aspects of the tournament. The dashboard includes visualizations and statistics related to team performances, individual player achievements, match outcomes, and more.
 
 #### Features
-**Title Winner**: Highlights the winning team of the season (e.g., Gujarat Titans).
+**---> **Title Winner****: Highlights the winning team of the season (e.g., Gujarat Titans).
 
 **Individual Awards**: Displays the Orange Cap holder (top run-scorer) and Purple Cap holder (top wicket-taker).
 
