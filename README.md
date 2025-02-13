@@ -5,10 +5,17 @@ This Power BI dashboard provides a comprehensive analysis of the Indian Premier 
 
 #### Features
 **Title Winner**: Highlights the winning team of the season (e.g., Gujarat Titans).
+
 **Individual Awards**: Displays the Orange Cap holder (top run-scorer) and Purple Cap holder (top wicket-taker).
+
 **Tournament Statistics**: Provides key metrics such as total runs and wickets.
+
 **Batting and Bowling Stats**: Detailed statistics for selected batsmen and bowlers, including total runs, strike rate, wickets, economy, and average.
+
 **Toss Decision Impact**: Analyzes the impact of toss decisions on match outcomes.
+
 **Venue Performance**: Shows match wins by different venues.
+
 **Team Performance**: Tracks total wins by each team across the season.
+
 **Result Type**: Breaks down match wins by runs and wickets.
